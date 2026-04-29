@@ -1,0 +1,7 @@
+{
+  "name": "vercel http",
+  "version": "1.0.0",
+  "description": "Edge runtime with help of Vercel",
+  "private": true,
+  "license": "MIT"
+}
